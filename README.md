@@ -119,4 +119,4 @@ project-root/
 
 ## Related publication
 
-Code developed for the study 'Transport and Organization of Individual Vimentin Filaments Within Dense Networks Revealed by Single Particle Tracking and 3D FIB-SEM' (Renganathan et al., Journal of Cell Biology, Jan 2025). If you use these scripts, cite: https://doi.org/10.1083/jcb.202406054.
+Code developed for the study 'Transport and Organization of Individual Vimentin Filaments Within Dense Networks Revealed by Single Particle Tracking and 3D FIB-SEM' (Renganathan et al., Journal of Cell Biology, Jan 2025). If you use these scripts, please cite: https://doi.org/10.1083/jcb.202406054.
